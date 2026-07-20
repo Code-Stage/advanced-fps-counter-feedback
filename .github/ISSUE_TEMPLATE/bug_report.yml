@@ -10,7 +10,7 @@ body:
   - type: input
     id: asset_version
     attributes:
-      label: Advanced FPS Counter version
+      label: "Advanced FPS Counter version"
       placeholder: e.g. 2.9.2
     validations:
       required: true
@@ -79,5 +79,5 @@ body:
       options:
         - label: I searched existing issues and this isn't a duplicate
           required: true
-        - label: I'm on the latest version of Advanced FPS Counter I can run
+        - label: "I'm on the latest version of Advanced FPS Counter I can run"
           required: false
