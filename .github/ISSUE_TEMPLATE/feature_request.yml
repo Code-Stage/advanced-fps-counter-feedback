@@ -34,5 +34,5 @@ body:
   - type: input
     id: asset_version
     attributes:
-      label: Advanced FPS Counter version
+      label: "Advanced FPS Counter version"
       placeholder: e.g. 2.9.2
